@@ -25,7 +25,7 @@ function SimpleCounter(props) {
 		</div>
 	);
 }
-SimpleCounter.PropTypes = {
+SimpleCounter.propTypes = {
 	dfour: PropTypes.number,
 	dthree: PropTypes.number,
 	dtwo: PropTypes.number,
